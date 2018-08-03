@@ -1,0 +1,2 @@
+# ativa
+configuracao smb atv
